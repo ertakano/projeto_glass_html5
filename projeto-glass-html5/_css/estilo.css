@@ -58,7 +58,7 @@ header#head h2 {
 
 header#head img#icon {
     position: absolute;
-    left: 780px;
+    left: 930px;
     top: 70px;
 }
 
@@ -107,7 +107,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 300px;
+    left: 500px;
 }
 
 nav#menu li {
