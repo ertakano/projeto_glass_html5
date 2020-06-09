@@ -58,7 +58,7 @@ header#head h2 {
 
 header#head img#icon {
     position: absolute;
-    left: 930px;
+    left: 925px;
     top: 70px;
 }
 
@@ -229,7 +229,7 @@ aside#rightside h1 {
     font-family: 'FontLogo', sans-serif;
     font-size: 20pt;
     color: #606060;
-    margin-top: 0px;
+    margin-top: 30px;
 }
 
 aside#rightside h2 {
@@ -237,6 +237,7 @@ aside#rightside h2 {
     font-size: 13pt;
     color: #ffffff;
     padding: 5px;
+    margin-bottom: 0px;
 }
 
 footer#footer {
@@ -246,4 +247,18 @@ footer#footer {
 
 footer#footer p {
     text-align: center;
+}
+
+/* Formatação do Vídeo */
+div#movie2 {
+    margin: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+video#movie_mini02 {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
 }
